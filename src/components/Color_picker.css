@@ -1,0 +1,23 @@
+#coldiv{
+    margin:5% auto;
+    width:650px;
+    height: 400px;
+    display:grid;
+    align-content: center;
+    border-radius: 15px;
+    box-shadow: 0 0 20px black;
+}
+body{
+    background-color: rgb(178, 165, 194);
+}
+button{
+    font-size:20px;
+    margin:2% auto; 
+    background-color:rgb(47, 151, 47);
+    color:white;
+    border: none;
+}
+#listdiv{
+    display:flex;
+    flex-wrap:wrap;
+}
